@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 3f41a24735ae158429ac7e12bca2c027
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7964451738683960825
+    second: Spinning_Road_UI_Atlas_0
+  - first:
+      213: 5584139356312448279
+    second: Spinning_Road_UI_Atlas_1
+  - first:
+      213: 5481039980472308210
+    second: Spinning_Road_UI_Atlas_2
+  - first:
+      213: 8881769665792340908
+    second: Spinning_Road_UI_Atlas_3
+  - first:
+      213: 258855614928603788
+    second: Spinning_Road_UI_Atlas_4
+  - first:
+      213: 3545517754110039004
+    second: Spinning_Road_UI_Atlas_5
+  - first:
+      213: -4039045326171525305
+    second: Spinning_Road_UI_Atlas_6
+  - first:
+      213: 7533291115719302539
+    second: Spinning_Road_UI_Atlas_7
+  - first:
+      213: 7042697510854372011
+    second: Spinning_Road_UI_Atlas_8
+  - first:
+      213: -8875535279066141517
+    second: Spinning_Road_UI_Atlas_9
+  - first:
+      213: 7811827842708278214
+    second: Spinning_Road_UI_Atlas_10
+  - first:
+      213: 4367339895879830210
+    second: Spinning_Road_UI_Atlas_11
+  - first:
+      213: -7626005915343024410
+    second: Spinning_Road_UI_Atlas_12
+  - first:
+      213: 5069281920094615759
+    second: Spinning_Road_UI_Atlas_13
+  - first:
+      213: 6351442673048331338
+    second: Spinning_Road_UI_Atlas_14
+  - first:
+      213: 572223440999303268
+    second: Spinning_Road_UI_Atlas_15
+  - first:
+      213: -2265876340569501790
+    second: Spinning_Road_UI_Atlas_16
+  - first:
+      213: 290083400151984928
+    second: Spinning_Road_UI_Atlas_17
+  - first:
+      213: -659539327770207415
+    second: Spinning_Road_UI_Atlas_18
+  - first:
+      213: -3553755960695939177
+    second: Spinning_Road_UI_Atlas_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1841
+        width: 482
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdeffaa8aa678e60800000000000000
+      internalID: 7964451738683960825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1841
+        width: 483
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d28459829de7d40800000000000000
+      internalID: 5584139356312448279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1841
+        width: 483
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f114cb82d0901c40800000000000000
+      internalID: 5481039980472308210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1777
+        width: 238
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca374621472624b70800000000000000
+      internalID: 8881769665792340908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1641
+        width: 483
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a4fef6fc3a79300800000000000000
+      internalID: 258855614928603788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1641
+        width: 483
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3d196cc95343130800000000000000
+      internalID: 3545517754110039004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1641
+        width: 483
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f28d5fcad62f7c0800000000000000
+      internalID: -4039045326171525305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1478
+        width: 493
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d1e0e4b50ab8860800000000000000
+      internalID: 7533291115719302539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1452
+        width: 483
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaa0038210bcb160800000000000000
+      internalID: 7042697510854372011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1452
+        width: 483
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca0d330b3c3d480800000000000000
+      internalID: -8875535279066141517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1452
+        width: 483
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb022bb800396c60800000000000000
+      internalID: 7811827842708278214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1294
+        width: 771
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca0f430f78eb9c30800000000000000
+      internalID: 4367339895879830210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1282
+        width: 330
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8bc815c05b95640800000000000000
+      internalID: 5069281920094615759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1104
+        width: 674
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4684ae41032f0f700800000000000000
+      internalID: 572223440999303268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spinning_Road_UI_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 932
+        width: 960
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af846f297dfd80e0800000000000000
+      internalID: -2265876340569501790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: de54c92b82abeec4b94075211fdb3f51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spinning_Road_UI_Atlas_9: -8875535279066141517
+      Spinning_Road_UI_Atlas_4: 258855614928603788
+      Spinning_Road_UI_Atlas_2: 5481039980472308210
+      Spinning_Road_UI_Atlas_3: 8881769665792340908
+      Spinning_Road_UI_Atlas_5: 3545517754110039004
+      Spinning_Road_UI_Atlas_10: 7811827842708278214
+      Spinning_Road_UI_Atlas_8: 7042697510854372011
+      Spinning_Road_UI_Atlas_7: 7533291115719302539
+      Spinning_Road_UI_Atlas_6: -4039045326171525305
+      Spinning_Road_UI_Atlas_15: 572223440999303268
+      Spinning_Road_UI_Atlas_1: 5584139356312448279
+      Spinning_Road_UI_Atlas_11: 4367339895879830210
+      Spinning_Road_UI_Atlas_0: 7964451738683960825
+      Spinning_Road_UI_Atlas_13: 5069281920094615759
+      Spinning_Road_UI_Atlas_16: -2265876340569501790
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
