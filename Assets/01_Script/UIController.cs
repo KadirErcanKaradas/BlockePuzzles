@@ -51,6 +51,37 @@ public class UIController : MonoBehaviour
         }
        
     }
+    public void NextButton()
+    {
+        PlayerPrefs.SetInt("Level", PlayerPrefs.GetInt("Level") + 1);
+        levelText.text = PlayerPrefs.GetInt("Level").ToString();
+        if (SceneManager.GetActiveScene().buildIndex < SceneManager.sceneCountInBuildSettings - 1)
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        else
+        {
+            SceneManager.LoadScene(1);
+            PlayerPrefs.SetInt("Level",1);
+            levelText.text = PlayerPrefs.GetInt("Level").ToString();
+        }
+    }
+    public void BackButton()
+    {
+        
+        //if (SceneManager.GetActiveScene().buildIndex < SceneManager.sceneCountInBuildSettings - 1)
+            //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        if(PlayerPrefs.GetInt("Level")==1)
+        {
+            SceneManager.LoadScene(1);
+            PlayerPrefs.SetInt("Level", 1);
+            levelText.text = PlayerPrefs.GetInt("Level").ToString();
+        }
+        else if (PlayerPrefs.GetInt("Level")>1)
+        {
+            PlayerPrefs.SetInt("Level", PlayerPrefs.GetInt("Level") - 1);
+            levelText.text = PlayerPrefs.GetInt("Level").ToString();
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        }
+    }
     public void RetryButton()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);

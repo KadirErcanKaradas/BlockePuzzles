@@ -15,7 +15,7 @@ public class rigi : MonoBehaviour
         else
         {
             PlayerPrefs.SetInt("Level", 1);
-            level = 0;
+            level = 1;
         }
         //PlayerPrefs.SetInt("TotalLevelText", 10);
         SceneManager.LoadScene(level);
