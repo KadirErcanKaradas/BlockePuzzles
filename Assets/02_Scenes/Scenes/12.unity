@@ -135,7 +135,6 @@ GameObject:
   - component: {fileID: 72250722}
   - component: {fileID: 72250721}
   - component: {fileID: 72250720}
-  - component: {fileID: 72250719}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -158,18 +157,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &72250719
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 72250717}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &72250720
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -633,7 +620,6 @@ GameObject:
   - component: {fileID: 231550082}
   - component: {fileID: 231550081}
   - component: {fileID: 231550080}
-  - component: {fileID: 231550079}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -656,18 +642,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &231550079
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 231550077}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &231550080
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1131,7 +1105,6 @@ GameObject:
   - component: {fileID: 376288687}
   - component: {fileID: 376288686}
   - component: {fileID: 376288685}
-  - component: {fileID: 376288684}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -1154,18 +1127,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &376288684
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 376288682}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &376288685
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1338,7 +1299,6 @@ GameObject:
   - component: {fileID: 398815318}
   - component: {fileID: 398815317}
   - component: {fileID: 398815316}
-  - component: {fileID: 398815315}
   m_Layer: 0
   m_Name: 5
   m_TagString: PuzzlePart
@@ -1361,18 +1321,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &398815315
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 398815313}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &398815316
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6549,7 +6497,6 @@ GameObject:
   - component: {fileID: 457014090}
   - component: {fileID: 457014089}
   - component: {fileID: 457014088}
-  - component: {fileID: 457014087}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -6572,18 +6519,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &457014087
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 457014085}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &457014088
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12131,7 +12066,6 @@ GameObject:
   - component: {fileID: 637334550}
   - component: {fileID: 637334549}
   - component: {fileID: 637334548}
-  - component: {fileID: 637334547}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -12154,18 +12088,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &637334547
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 637334545}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &637334548
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12849,7 +12771,6 @@ GameObject:
   - component: {fileID: 832644273}
   - component: {fileID: 832644272}
   - component: {fileID: 832644271}
-  - component: {fileID: 832644270}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -12872,18 +12793,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &832644270
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 832644268}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &832644271
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13172,7 +13081,6 @@ GameObject:
   - component: {fileID: 943049346}
   - component: {fileID: 943049345}
   - component: {fileID: 943049344}
-  - component: {fileID: 943049343}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -13195,18 +13103,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &943049343
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 943049341}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &943049344
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13476,7 +13372,6 @@ GameObject:
   - component: {fileID: 959851197}
   - component: {fileID: 959851196}
   - component: {fileID: 959851195}
-  - component: {fileID: 959851194}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -13499,18 +13394,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &959851194
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 959851192}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &959851195
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13670,7 +13553,6 @@ GameObject:
   - component: {fileID: 969583567}
   - component: {fileID: 969583566}
   - component: {fileID: 969583565}
-  - component: {fileID: 969583564}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -13693,18 +13575,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &969583564
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 969583562}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &969583565
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19251,7 +19121,6 @@ GameObject:
   - component: {fileID: 1125050425}
   - component: {fileID: 1125050424}
   - component: {fileID: 1125050423}
-  - component: {fileID: 1125050422}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -19274,18 +19143,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1125050422
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1125050420}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1125050423
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25044,7 +24901,6 @@ GameObject:
   - component: {fileID: 1286178727}
   - component: {fileID: 1286178726}
   - component: {fileID: 1286178725}
-  - component: {fileID: 1286178724}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -25067,18 +24923,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1286178724
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1286178722}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1286178725
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25424,7 +25268,6 @@ GameObject:
   - component: {fileID: 1425263509}
   - component: {fileID: 1425263508}
   - component: {fileID: 1425263507}
-  - component: {fileID: 1425263506}
   m_Layer: 0
   m_Name: 8
   m_TagString: PuzzlePart
@@ -25447,18 +25290,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1425263506
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1425263504}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1425263507
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25534,7 +25365,6 @@ GameObject:
   - component: {fileID: 1433093309}
   - component: {fileID: 1433093308}
   - component: {fileID: 1433093307}
-  - component: {fileID: 1433093306}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -25557,18 +25387,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1433093306
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1433093304}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1433093307
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30727,7 +30545,6 @@ GameObject:
   - component: {fileID: 1562418995}
   - component: {fileID: 1562418994}
   - component: {fileID: 1562418993}
-  - component: {fileID: 1562418992}
   m_Layer: 0
   m_Name: 3
   m_TagString: PuzzlePart
@@ -30750,18 +30567,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1562418992
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1562418990}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1562418993
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30837,7 +30642,6 @@ GameObject:
   - component: {fileID: 1573799978}
   - component: {fileID: 1573799977}
   - component: {fileID: 1573799976}
-  - component: {fileID: 1573799975}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -30860,18 +30664,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1573799975
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1573799973}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1573799976
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36806,7 +36598,6 @@ GameObject:
   - component: {fileID: 1823350549}
   - component: {fileID: 1823350548}
   - component: {fileID: 1823350547}
-  - component: {fileID: 1823350546}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -36829,18 +36620,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1823350546
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1823350544}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1823350547
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37304,7 +37083,6 @@ GameObject:
   - component: {fileID: 1947556301}
   - component: {fileID: 1947556300}
   - component: {fileID: 1947556299}
-  - component: {fileID: 1947556298}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -37327,18 +37105,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1947556298
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1947556296}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1947556299
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37414,7 +37180,6 @@ GameObject:
   - component: {fileID: 1964934898}
   - component: {fileID: 1964934897}
   - component: {fileID: 1964934896}
-  - component: {fileID: 1964934895}
   m_Layer: 0
   m_Name: 8
   m_TagString: PuzzlePart
@@ -37437,18 +37202,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1964934895
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1964934893}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &1964934896
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37718,7 +37471,6 @@ GameObject:
   - component: {fileID: 2069138595}
   - component: {fileID: 2069138594}
   - component: {fileID: 2069138593}
-  - component: {fileID: 2069138592}
   m_Layer: 0
   m_Name: 6
   m_TagString: PuzzlePart
@@ -37741,18 +37493,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2069138592
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2069138590}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &2069138593
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38119,7 +37859,6 @@ GameObject:
   - component: {fileID: 2115416010}
   - component: {fileID: 2115416009}
   - component: {fileID: 2115416008}
-  - component: {fileID: 2115416007}
   m_Layer: 0
   m_Name: 3
   m_TagString: PuzzlePart
@@ -38142,18 +37881,6 @@ Transform:
   m_Father: {fileID: 651781006}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2115416007
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2115416005}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed406e704e49b284893e3e4e12e441c1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!65 &2115416008
 BoxCollider:
   m_ObjectHideFlags: 0

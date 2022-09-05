@@ -12,7 +12,6 @@ public class UIController : MonoBehaviour
     [SerializeField] private ParticleSystem levelCompPart;
     [SerializeField] private ParticleSystem levelCompPart1;
     [SerializeField] private TMP_Text levelText;
-    [SerializeField] private int levelCount = 1;
   
     void Start()
     {
